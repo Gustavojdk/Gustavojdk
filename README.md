@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Luis Gustavo Mamani Mosquera😊
+# 👋 ¡Hola! Soy Gustavo😊
 
 🎓 Estudiante de Ingeniería Informatica 
 
