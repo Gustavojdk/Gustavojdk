@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gustavo Mamani Mosquera
+# 👋 ¡Hola! Soy  Luis Gustavo Mamani Mosquera
 
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Apasionado por la programación, el desarrollo web y la tecnología  
