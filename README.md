@@ -8,7 +8,7 @@
 
  <!-- Banner Image -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Luis Gustavo Banner" width="100%" />
+  <img src="./assets/videogif.gif" alt="Luis Gustavo Banner" width="100%" />
 </p>
 
 <!-- Main Retro Title -->
