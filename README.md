@@ -171,35 +171,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&multiline=true&width=1050&height=220&lines=%3E+Hands-on+experience+with+network+configuration;%3E+Routing+protocols%3A+RIP%2C+OSPF%2C+BGP+and+redistribution;%3E+Network+services%3A+DNS%2C+DHCP%2C+HTTP+and+NAT;%3E+Security+and+filtering+with+standard+and+extended+ACLs;%3E+Practical+configuration+with+Packet+Tracer%2C+MikroTik+and+Winbox;%3E+Knowledge+of+IPv4%2C+IPv6+and+WiFi+setup" alt="Networking Skills" />
 </p>
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&width=850&lines=%E2%96%BC+CONTRIBUTION+SNAKE+MODE+%E2%96%BC" alt="Snake Title" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+Collecting+commits...;%3E+Eating+contributions...;%3E+Snake+activity+loaded" alt="Snake Loading" />
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavojdk/Gustavojdk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavojdk/Gustavojdk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gustavojdk/Gustavojdk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- ===================== GOALS ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=900&lines=%E2%96%BC+CURRENT+GOALS+%E2%96%BC" alt="Goals Title" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Build-Better%20Projects-0F172A?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Master-Git%20%26%20GitHub-111827?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Improve-Problem%20Solving-1E293B?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Grow-As%20A%20Developer-334155?style=for-the-badge&labelColor=020617" />
-</p>
-
 <!-- ===================== CONTACT ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=760&lines=%E2%96%BA+PRESS+START+TO+CONNECT+%E2%97%84" alt="Contact Title" />
